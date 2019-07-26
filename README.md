@@ -1,4 +1,4 @@
-# stenciljs-component-contactform
+# Stenciljs-component-contactform
 A web component, made of stenciljs
 
 **Following are the steps to check contact-form :**
@@ -15,13 +15,13 @@ A web component, made of stenciljs
 - add following tag in your website
   > <contact-form> </contact-form>
   
-  **Features worked on :**
-  - Reqres.in api post data
-  - Email funtionality using smtp.js ( you need to configure smtp.js by creating id in there site)
+**Features worked on :**
+- Reqres.in api post data
+- Email funtionality using smtp.js ( you need to configure smtp.js by creating id in there site)
   
   
-  **Reference :**
-  - https://stenciljs.com/
-  - https://www.smtpjs.com/
-  - https://reqres.in/
+**Reference :**
+- https://stenciljs.com/
+- https://www.smtpjs.com/
+- https://reqres.in/
   
